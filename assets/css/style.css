@@ -1,4 +1,4 @@
-
+/* Basic separation of elements */
 button,
 div,
 form,
@@ -7,15 +7,17 @@ input {
 
 }
 
+/* Visible and clear text */
 p,
 h1,
 label {
-    color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* Background properties */
 body{
-    background-image: url("../images/GifTasticAnim.gif");
+  background-image: url("../images/GifTasticAnim.gif");
     /* Set rules to fill background */
   min-height: 100%;
   min-width: 1024px;
