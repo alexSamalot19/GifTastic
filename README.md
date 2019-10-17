@@ -29,7 +29,7 @@ Then a new button could be produced at the top of the page by clicking the **Add
 
 By clicking the new button the user would see gifs displayed with their rating as seen below.
 
-![Example](assets/images/ExampleGif.png)
+![Example](assets/images/ExampleGIF.png)
 
 <br>
 
